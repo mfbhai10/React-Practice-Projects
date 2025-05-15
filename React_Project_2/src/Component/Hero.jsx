@@ -19,8 +19,8 @@ const Hero = () => {
                     <button><img src="/images/ic_outline-message.png" alt="message-icon" />VIA EMAIL FORM</button>
 
                     <input type="text" name="name" id="name" />
-                    <input type="text" name="name" id="name" />
-                    <input type="text" name="name" id="name" />
+                    <input type="text" name="email" id="email" />
+                    <input type="text" name="sms" id="sms" />
                 </div>
                 </div>
 
